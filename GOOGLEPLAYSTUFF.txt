@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+  <string name="app_id">838782024643</string>
+  <string name="package_name">net.polareclipse.lowpolydefense</string>
+  <string name="achievement_crystal_guard">CgkIw_e32rQYEAIQAQ</string>
+  <string name="achievement_crystal_protector">CgkIw_e32rQYEAIQAg</string>
+  <string name="achievement_crystal_guardian">CgkIw_e32rQYEAIQAw</string>
+  <string name="achievement_builder">CgkIw_e32rQYEAIQBA</string>
+  <string name="achievement_artisan">CgkIw_e32rQYEAIQBQ</string>
+  <string name="achievement_craftsman">CgkIw_e32rQYEAIQBw</string>
+  <string name="achievement_tutorial_master">CgkIw_e32rQYEAIQCA</string>
+  <string name="achievement_completionist">CgkIw_e32rQYEAIQCQ</string>
+  <string name="achievement_extreme_completionist">CgkIw_e32rQYEAIQCg</string>
+  <string name="leaderboard_awesome_leaderboard">CgkIw_e32rQYEAIQBg</string>
+</resources>
